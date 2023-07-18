@@ -7,7 +7,7 @@ from binance.enums import HistoricalKlinesType
 
 
 
-weeks=["1 Jan 2022","19 Jul 2023"]d
+weeks=["1 Jan 2022","19 Jul 2023"]
 
 
 client = Client(None,None)
